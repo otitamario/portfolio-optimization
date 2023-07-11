@@ -1,0 +1,6 @@
+pulp
+pytest 
+jupyterlab
+tabula-py
+pandas
+
