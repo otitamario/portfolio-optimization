@@ -1,5 +1,4 @@
-pulp
-pytest 
+pyomo
 jupyterlab
 tabula-py
 pandas
