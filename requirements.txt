@@ -1,5 +1,4 @@
 pyomo
-jupyterlab
-tabula-py
+numpy
 pandas
-
+tabula-py
